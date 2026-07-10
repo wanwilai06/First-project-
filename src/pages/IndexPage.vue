@@ -2,7 +2,7 @@
   <q-page class="flex flex-center">
     <div class="column items-center">
       <img
-        alt="Quasar logo"
+        alt="hello world"
         src="~@/assets/quasar-logo-vertical.svg"
         style="width: 200px; height: 200px"
       />
