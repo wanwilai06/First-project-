@@ -1,21 +1,13 @@
 <template>
 <div class="q-pa-md">
   <div class="q-gutter-y-md column" style="max-width: 300px">
-<<<<<<< HEAD
-    <q-input color="purple-12" v-model="text" label="Label">
-=======
-    <q-input color="teal" v-model="text" label="Label">
->>>>>>> hotfix
+    <q-input color="purple" v-model="text" label="Label">
       <template v-slot:prepend>
         <q-icon name="event" />
       </template>
     </q-input>
 
-<<<<<<< HEAD
-    <q-input color="teal" filled v-model="text" label="Label">
-=======
     <q-input color="purple-12" filled v-model="text" label="Label">
->>>>>>> hotfix
       <template v-slot:prepend>
         <q-icon name="event" />
       </template>
